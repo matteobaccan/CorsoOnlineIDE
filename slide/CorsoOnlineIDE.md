@@ -87,6 +87,7 @@ Inoltre, VS Code Dev supporta numerose estensioni e integrazioni di linguaggi di
 
 <https://it.wikipedia.org> : definizioni e argomenti
 <https://chat.openai.com> : ChatGPT
+<https://www.pizzagpt.it/> : PizzaGPT
 
 Ogni immagine inserita riporta la fonte
 
